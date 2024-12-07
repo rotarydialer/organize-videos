@@ -1,0 +1,16 @@
+{
+  "name": "phone-vids",
+  "version": "0.1.0",
+  "description": "Copy and organize video files, primarily from cell phones",
+  "main": "organize.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christopher Drew",
+  "license": "ISC",
+  "dependencies": {
+    "exiftool-vendored": "^29.0.0",
+    "fs-extra": "^11.2.0",
+    "readline": "^1.3.0"
+  }
+}
